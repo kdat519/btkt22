@@ -1,0 +1,12 @@
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\bin\Debug\net6.0\GreatestCommonDivisorService.deps.json
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\bin\Debug\net6.0\GreatestCommonDivisorService.dll
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\bin\Debug\net6.0\GreatestCommonDivisorService.pdb
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\GreatestCommonDivisorService.csproj.AssemblyReference.cache
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\GreatestCommonDivisorService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\GreatestCommonDivisorService.AssemblyInfoInputs.cache
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\GreatestCommonDivisorService.AssemblyInfo.cs
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\GreatestCommonDivisorService.csproj.CoreCompileInputs.cache
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\GreatestCommonDivisorService.dll
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\refint\GreatestCommonDivisorService.dll
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\GreatestCommonDivisorService.pdb
+D:\Projects\Testing\unit-testing\GreatestCommonDivisorService\obj\Debug\net6.0\ref\GreatestCommonDivisorService.dll
