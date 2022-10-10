@@ -1,5 +1,5 @@
 # Kiểm thử chức năng
-## Đặc tả: 
+## Đặc tả
 Hàm tính ước chung lớn nhất của hai số nguyên a, b.
 
 -2147483647 <= a <= 2147483647
