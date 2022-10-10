@@ -5,6 +5,10 @@ public class GreatestCommonDivisorService
 {
     public static int GreatestCommonDivisor(int a, int b)
     {
+        if (a == int.MinValue || b == int.MinValue)
+        {
+            throw new ArgumentOutOfRangeException($"The value must be an integer between {-int.MaxValue} and {int.MaxValue}");
+        }
         b = Math.Abs(b);
         if (a == 0)
         {
