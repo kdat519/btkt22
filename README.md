@@ -15,7 +15,7 @@ Nếu cả `a` và `b` đều bằng không thì trả về không.
 ### Ngoại lệ
 `ArgumentOutOfRangeException` 
 
-Nếu `a` hoặc `b` bằng -2147483647
+`a` hoặc `b` bằng -2147483647
 
 ## Chạy kiểm thử
 ```
