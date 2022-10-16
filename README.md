@@ -1,4 +1,4 @@
-# Kiểm thử chức năng
+# Bài tập kiểm thử
 ## Đặc tả
 Hàm tính ước chung lớn nhất của hai số nguyên a, b.
 ```
