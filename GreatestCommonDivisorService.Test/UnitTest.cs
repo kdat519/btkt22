@@ -31,4 +31,19 @@ public class UnitTest
     {
         Assert.Equal(expectedResult, GreatestCommonDivisorService.GreatestCommonDivisor(number1, number2));
     }
+
+    [Theory]
+    [InlineData(0, 10, 10)]
+    [InlineData(15, 10, 5)]
+    public void BranchCoverage(int number1, int number2, int expectedResult)
+    {
+        Assert.Equal(expectedResult, GreatestCommonDivisorService.GreatestCommonDivisor(number1, number2));
+    }
+    
+    [Theory]
+    [InlineData(int.MinValue, 10)]
+    public void BranchCoverage_ThrowsArgumentOutOfRangeException(int number1, int number2)
+    {
+        Assert.Throws<ArgumentOutOfRangeException>(() => GreatestCommonDivisorService.GreatestCommonDivisor(number1, number2));
+    }
 }

@@ -15,7 +15,7 @@ Nếu cả `a` và `b` đều bằng không thì trả về không.
 ### Ngoại lệ
 `ArgumentOutOfRangeException` 
 
-Nếu `a` hoặc `b` bằng `int.MinValue` thì tạo ngoại lệ.
+Nếu `a` hoặc `b` bằng `int.MinValue` thì tạo ra ngoại lệ.
 
 ## Chạy kiểm thử
 ```
